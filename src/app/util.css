@@ -1,0 +1,13 @@
+/* @layer base {
+  h1 {
+    @apply lg:text-7xl text-5xl font-bold leading-normal;
+  }
+
+  h2 {
+    @apply lg:text-5xl text-3xl font-bold leading-normal;
+  }
+
+  h3 {
+    @apply lg:text-2xl text-xl font-bold leading-normal;
+  }
+} */
