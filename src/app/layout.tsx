@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import "@fontsource/dm-sans"; // Defaults to weight 400
 import Layout from "@/components/layout";

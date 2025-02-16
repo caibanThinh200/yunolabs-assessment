@@ -4,7 +4,6 @@ import GridCard from "@/components/blocks/GridCard";
 import Hero from "@/components/blocks/Hero";
 import Testimonials from "@/components/blocks/Testimonials";
 import VerticalCards from "@/components/blocks/VerticalCard";
-import Image from "next/image";
 
 export default function Home() {
   return (
