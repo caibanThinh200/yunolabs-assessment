@@ -15,7 +15,6 @@ const eslintConfig = [
       "react/no-unescaped-entities": "off",
       "@next/next/no-page-custom-font": "off",
       "no-empty-interface": "off",
-      "@typescript-eslint/no-empty-object-type": "warn",
     },
   }),
 
